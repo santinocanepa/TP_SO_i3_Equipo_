@@ -1,7 +1,9 @@
 Nombre: Ismael
 Apellido: Frias
 IP: 184.168.32.1
-Hora: 19:31 pmSantiago Grosso 
+Hora: 19:31 pm
+
+Santiago Grosso 
 
 Configuraci¢n IP de Windows
 
@@ -23,3 +25,11 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Puerta de enlace predeterminada . . . . . : 
 
 Hora: 19:45:11
+
+
+Nombre: Santino Canepa 
+
+IP: 192.168.0.98
+
+HORA: 20:04:23
+
