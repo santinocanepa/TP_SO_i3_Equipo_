@@ -1,0 +1,67 @@
+/ifconfig: No such file or directory
+Nombre y apellido: Santino Canepa 
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : fdfd::1ad5:5227
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::44e0:8f08:7787:35dd%14
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 26.213.82.39
+   M scara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+
+Adaptador desconocido Conexi¢n de  rea local:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : fibertel.com.ar
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::d865:cbe8:10b3:8945%21
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.98
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::1779:3541:a275:aacd%16
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : fibertel.com.ar
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::a92d:a3d0:6f00:dcac%12
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.132
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2001:0:2877:7aa:2c56:3e48:6756:504a
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::2c56:3e48:6756:504a%15
+   Puerta de enlace predeterminada . . . . . : 
+
+Hora: 20:28:30
