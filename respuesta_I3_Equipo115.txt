@@ -23,3 +23,10 @@ git checkout Canepa
 Git add .
 Git commit -m "Actualización Gamma beta.txt"
 Git push
+
+G- 
+git checkout Canepa
+(echo -e "Nombre y apellido: Santiago Grosso " && ipconfig && echo -e "\nHora: \c" && date +%H:%M:%S) >> beta.txt
+Git add .
+Git commit -m "Actualización Alfa beta.txt"
+Git push
