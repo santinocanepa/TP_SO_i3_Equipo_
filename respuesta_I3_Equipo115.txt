@@ -12,3 +12,14 @@ c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merg
 .Git add .
 .commit -m "Merge"
 .Git push
+
+D- Luego de hacer los cambios, las ramas quedan con los datos últimos del merge.
+
+E- No tuvimos problemas en general, solo fue cuestión de buscar la solución. Lo único que al principio no podíamos hacer el merge debido a que no sabíamos cómo volver a la branch principal. Con el comando checkout lo resolvimos fácilmente.
+
+F- 
+git checkout Canepa
+(echo -e "Nombre y apellido: Ismael Frias " && ipconfig && echo -e "\nHora: \c" && date +%H:%M:%S) >> beta.txt
+Git add .
+Git commit -m "Actualización Gamma beta.txt"
+Git push
