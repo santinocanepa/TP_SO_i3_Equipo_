@@ -1,0 +1,14 @@
+a-¿Como queda El master después de estos cambios?
+
+a. El master queda con CPUALFA.txt, CPUBETA.txt, CPUGAMMA.txt, Datos.txt, readme.md, BETA.txt y respuestas.txt
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+b.Si, Beta pudo ver todos los cambios
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+.Git checkout main
+.Git merge Frias
+.Git add .
+.commit -m "Merge"
+.Git push
